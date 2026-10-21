@@ -17,4 +17,3 @@ The calculator uses three inputs:
 ## Output
 
 The calculator calculates and displays the simple interest based on the values entered by the user.
-
